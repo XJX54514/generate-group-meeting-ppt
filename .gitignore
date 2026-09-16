@@ -1,0 +1,19 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# Python / build byproducts
+__pycache__/
+*.pyc
+*.tmp
+*.log
+
+# Working artefacts that should never be committed
+work/
+exports/
+backup/

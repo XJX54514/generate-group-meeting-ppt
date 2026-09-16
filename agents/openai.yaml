@@ -1,0 +1,3 @@
+interface:
+  display_name: "生成组会汇报PPT"
+  short_description: "从 Obsidian 精读笔记或 Zotero 论文生成规范学术语气的组会/文献精读汇报 PPT：论文原图 + 重绘表格，导出可编辑 PPTX 到指定目录。"
